@@ -1,5 +1,9 @@
 
-![](https://media.tenor.com/donUNbjmXBUAAAAM/1111.gif)
+<p align="center">
+    <img src="https://media.tenor.com/donUNbjmXBUAAAAM/1111.gif" width="500" align="center">
+</p>
+
+
 <!--
 **githubpacha/githubpacha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
